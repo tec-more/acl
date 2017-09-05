@@ -1,0 +1,8 @@
+{
+    "alias": "tukecx-acl",
+    "name": "Tukecx ACL",
+    "author": "Tukecx",
+    "description": "Access control list package. Handle user permissions, roles.",
+    "namespace": "Tukecx\\Base\\ACL",
+    "autoload": "psr-4"
+}
