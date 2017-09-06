@@ -1,6 +1,5 @@
 {
     "name": "tec-more/acl",
-    "minimum-stability": "stable",
     "description": "Tukecx ACL",
     "license": "MIT",
     "authors": [
